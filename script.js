@@ -16,6 +16,8 @@ cartBtn.addEventListener("click", function(){
     updateCartModal();
     cartModal.style.display ="flex"
 
+    
+
 })
  
 //Fechar modal
@@ -140,7 +142,7 @@ if(addressInput.value !== ""){
     addressInput.classList.remove("border-red-500")
     addressWarn.classList.add("hidden")
 
-}
+}   
 })
 
 //finalizar carrinho
@@ -150,7 +152,7 @@ checkoutBtn.addEventListener("click", function(){
     const isOpen = checkRestaurantOpen();
     if(!isOpen){
 Toastify({
-    text: "Ah, não... o restaurante não está aberto no momento!",
+    text: "Ah, não... nossa pizzaria não está aberta no momento!",
     duration: 3000,
     close: true,
     gravity: "top", // `top` or `bottom`

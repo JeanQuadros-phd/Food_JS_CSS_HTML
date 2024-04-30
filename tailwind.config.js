@@ -8,7 +8,7 @@ module.exports = {
         'sans' : ['Poppins', 'sans-serif']
       },
       backgroundImage:{
-        "home" : "url('/assets/bg.png')"
+        "home" : "url('/assets/bg2.png')"
       }
     },
   },

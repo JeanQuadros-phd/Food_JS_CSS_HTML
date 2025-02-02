@@ -24,12 +24,12 @@ https://pizzaria-project.vercel.app
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/hamburgueria-online.git
+   git clone https://github.com/seu-usuario/Food_JS_CSS_HTML.git
    ```
 
 2. **Acesse o diretório do projeto:**
    ```bash
-   cd hamburgueria-online
+   cd Food_JS_CSS_HTML
    ```
 
 3. **Abra o arquivo `index.html` no seu navegador.**
